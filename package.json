@@ -14,7 +14,6 @@
   },
   "homepage": "https://github.com/reneloperena/auto-ready2learn#readme",
   "dependencies": {
-    "mocha": "^2.2.5",
     "selenium-webdriver": "^2.46.1"
   }
 }
