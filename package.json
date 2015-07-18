@@ -1,0 +1,20 @@
+{
+  "name": "auto-ready2learn",
+  "version": "1.0.0",
+  "description": "Automatically clicks ready to learn button on bookstrap",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reneloperena/auto-ready2learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reneloperena/auto-ready2learn/issues"
+  },
+  "homepage": "https://github.com/reneloperena/auto-ready2learn#readme",
+  "dependencies": {
+    "mocha": "^2.2.5",
+    "selenium-webdriver": "^2.46.1"
+  }
+}
